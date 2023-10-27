@@ -7,7 +7,8 @@ subtitle: CS PhD Student | ML Researcher
 profile:
   align: right
   image: Neel_profile_pic.png
-  address: >
+  image_circular: false # crops the image to make it circular
+  more_info: >
     <p>Iribe 2112</p> <p> 8125 Paint Branch Dr, College Park, MD 20742 </p>
 
 news: true  # includes a list of news items
