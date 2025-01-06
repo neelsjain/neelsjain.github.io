@@ -21,8 +21,7 @@ The widespread adoption of LLMs in everyday life, including their impact on my o
 Safe and Trustworthy Machine Learning presents a broad range of deeply interconnected challenges, many of which I have explored in my [research](https://scholar.google.com/citations?user=nSn7jtIAAAAJ) and published at top conferences such as Neurips and ICLR. 
 By addressing key challenges in alignment, safety, evaluations, and reasoning, I aim to create systems that align closely with human intentions and serve society responsibly and effectively.
 <!-- Evaluations guide progress by highlighting strengths and weaknesses. However, without advancing core capabilities, such as better data curation and enhanced training methods, the impact of these new evaluations is limited. Similarly, understanding how models generate copyrighted or harmful outputs is critical to addressing the limitations of current training techniques and for developing better approaches to mitigate these issues. -->
-
-By tackling these challenges in unison, I aim to build AI systems that are not only powerful but also safe and trustworthy.
+<!-- By tackling these challenges in unison, I aim to build AI systems that are not only powerful but also safe and trustworthy. -->
 
 Prior to UMD, I graduated from [Williams College](https://www.williams.edu/) in 2019 with Honors in Mathematics. At Williams, I wrote my thesis on graph theory under [Professor Pamela Harris](https://www.pamelaeharris.com/), which led to a publication in Graphs and Combinatorics. After Williams, I worked as a Data Scientist for [Booz Allen Hamilton](https://www.boozallen.com/), where I worked on projects of various topics including math modeling and machine learning. 
 
