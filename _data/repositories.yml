@@ -5,3 +5,5 @@ github_repos:
   - neelsjain/NEFTune
   - neelsjain/BYOD
   - neelsjain/baseline-defenses
+  - neelsjain/refusal-tokens
+  - YuxinWenRick/hard-prompts-made-easy
