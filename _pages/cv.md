@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: example_pdf.pdf
+cv_pdf: /assets/pdf/Neel_CV-website.pdf
 ---
